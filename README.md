@@ -9,10 +9,10 @@ There is a bug where the glossy light effects are still present and change the r
 There is a bug where Ball become trapped in the walls... this is my fault I used a quick trick to fix a bug and created that one. This is also the same reason the ball get stuck when they spawn in to fast. My bad will fix soon.
 ## Controls
 to move around the room use the "WASD" where W and A moves the camera forward and backward, A and D make the camrea rotate left and right respectively. Q and Z rotate the camera up and down. R spawn a Ball into the room. For every press of R a ball is spawned. There is no cap on Balls.
-W - Move Camera forward on the Z axis
-S - Move the Camera Backwards on the Z axis
-A - Rotate the camera to the Left on the Y axis
-D - Roate the Camera to the right on the Y axis
-Q - Roate the Camera down on the X axis (the effect of pushing the camera down)
-Z - Rotate the Camera up on the X axis (the effect of pulling the camera up)
-R - Spawns a Ball in the room.
+### W - Move Camera forward on the Z axis
+### S - Move the Camera Backwards on the Z axis
+### A - Rotate the camera to the Left on the Y axis
+### D - Roate the Camera to the right on the Y axis
+### Q - Roate the Camera down on the X axis (the effect of pushing the camera down)
+### Z - Rotate the Camera up on the X axis (the effect of pulling the camera up)
+### R - Spawns a Ball in the room.
